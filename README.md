@@ -1,36 +1,122 @@
-# 💫 About Me:
-- 🔭 I’m currently working on CNN projects
-- 🌱 I’m currently learning Tensorflow, CNN
-- 📫 How to reach me **betulbny@gmail.com**
+# 💫 About Me
 
+Hi 👋 I'm **Betül Nur Yıldırım**, a **Software Engineer** with a strong focus on  
+**Artificial Intelligence, Deep Learning, Full Stack Development and Cloud-based applications**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/betulnuryildirim) 
-<a href="https://kaggle.com/betulbny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="BetulBNY" height="30" width="40" /></a>
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BetulBNY&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BetulBNY&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulBNY&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I have experience across **AI/ML, Full-Stack Development, and DevOps**, gained through  
+international programs, competitive hackathons, internships, and real-world projects.
+
+Most of my CI/CD pipelines and DevOps work are maintained on GitLab.
+
+🎯 **Career Goal:**  
+To build **scalable AI-driven and cloud-native solutions**, combining strong software engineering principles with modern ML and DevOps practices.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BetulBNY&icon=8&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 Education
 
+**Istanbul Aydın University** — Istanbul, Türkiye  
+**B.Sc. in Software Engineering (English)**  
+- GPA: **3.62 / 4.00**
+- Graduated with **High Honors**
+- **Ranked 3rd in Class**
+- Relevant Coursework:
+  - Data Structures & Algorithms
+  - Object-Oriented Programming
+  - Database Systems
+  - AI & Deep Learning
+  - Software Requirements Engineering
+  - Data Warehousing & Business Intelligence
 
+**John von Neumann University** — Hungary  
+**B.Sc. in Computer Science (ERASMUS)**  
+- GPA: **4.00 / 4.00**
 
+---
 
+## 🧠 Technical Skills
 
+### 🖥️ Programming & Development
+- **Python, Java, C**
+- Spring Boot, REST APIs, FastAPI, Flask
+- HTML, CSS, JavaScript (React, Node.js)
+- OOP, UML, Agile
 
+### 🤖 AI / ML / Data
+- Machine Learning, Deep Learning, Computer Vision, NLP
+- TensorFlow, Keras, Scikit-learn
+- CNNs, Feature Engineering
+- NumPy, Pandas, OpenCV
+- Matplotlib, Seaborn, Plotly, NLTK
+- Streamlit
 
+### 🧩 LLMs & Agentic AI
+- OpenAI API, Gemini, DeepSeek, Ollama
+- LangChain, LangGraph
+- Multi-Agent Systems
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- FAISS, ChromaDB
 
+### ☁️ DevOps & Cloud
+- **GitLab CI/CD** (pipelines, build & deploy automation)
+- Docker
+- AWS (EC2, S3, ECS – basic deployments)
+- Git, Linux fundamentals
+- Shell / Bash scripting
 
+### 🗄️ Databases
+- MySQL, MongoDB
 
+---
 
+## 🏆 Programs, Bootcamps & Competitions
 
+- 🥉 **Teknofest International UAV Competition** — *3rd place (29 finalists)*  
+- **Teknofest – Hepsiburada Address Solution Hackathon** — *11th / 255 teams*
+- **MIUUL Data Scientist Bootcamp**
+- **Huawei Seeds for the Future**
+  - Selected **1 of 30** from 5,700 applicants
+  - Co-developed a **Metaverse Rehabilitation App**
+  - 🥈 **2nd place globally**
 
+---
 
+## 🚀 Featured Projects
 
+- **Deep Learning Assistant Multi-Agent System**  
+  *(Python, LangGraph, RAG, OpenAI, React)*  
+  Autonomous multi-agent system assisting developers in building deep learning models.
 
+- **Intelligent Flower Ordering AI Agent**  
+  *(Python, LangChain, OpenAI API, Vector DB)*  
+  Conversational AI for a flower shop scenario.
+
+- **Custom Deep Learning Framework**  
+  *(C++, React)*  
+  No-code platform for visually designing and training neural networks.
+
+- **Skin Cancer Detection System**  
+  *(TensorFlow/Keras, FastAPI, React)*  
+  CNN-based classifier trained on HAM10000 dataset (84% accuracy).
+
+- **Space Mission Success Prediction**  
+  *(Python, ML, Streamlit)*  
+  Achieved **2nd place** in bootcamp competition.
+
+---
+
+## 🌐 Connect With Me
+
+- 📫 Email: **betulbny@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/betulnuryildirim](https://www.linkedin.com/in/betulnuryildirim/)
+- 📊 Kaggle: [kaggle.com/BetulBNY](https://kaggle.com/BetulBNY)
+- 🌍 Portfolio: [betulbny.github.io/Portfolio-website](https://betulbny.github.io/Portfolio-website)
+- 🛠️ GitLab (CI/CD & DevOps work): https://gitlab.com/BetulBNY
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=BetulBNY&theme=jolly&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BetulBNY&theme=jolly)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BetulBNY&layout=compact&theme=jolly)
