@@ -49,7 +49,7 @@ To build and scale **modern data platforms** that combine reliable data pipeline
 
 - 🎓 **B.Sc. in Software Engineering** (Istanbul Aydın University) — **GPA: 3.62/4.00** (Ranked 3rd in Department)
 - 🌍 **B.Sc. in Computer Science** (John von Neumann University) — **GPA: 4.00/4.00**
-- 📍 **Teknofest International UAV Competition** — 3rd out of 35 finalist teams (Address Solution)
+- 📍 **Teknofest International UAV Competition** — 3rd out of 29 finalist teams (Address Solution)
 - 📍 **Teknofest Hackathon** — 11th out of 255 teams (Address Solution)
 
 ---
