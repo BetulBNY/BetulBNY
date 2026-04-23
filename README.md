@@ -1,118 +1,65 @@
 # 💫 About Me
-
-Hi 👋 I'm **Betül Nur Yıldırım**, a **Software Engineer** with a strong focus on  
-**Artificial Intelligence, Deep Learning, Full Stack Development and Cloud-based applications**.
-
-I have experience across **AI/ML, Full-Stack Development, and DevOps**, gained through  
-international programs, competitive hackathons, internships, and real-world projects.
-
-Most of my CI/CD pipelines and DevOps work are maintained on GitLab.
+Hi 👋 I'm **Betül Nur Yıldırım**, a **Data-focused Software Engineer** building scalable data pipelines and backend systems.
 
 🎯 **Career Goal:**  
-To build **scalable AI-driven and cloud-native solutions**, combining strong software engineering principles with modern ML and DevOps practices.
+To build and scale **modern data platforms** that combine reliable data pipelines with real-time analytics and automation.
 
 ---
 
-## 🎓 Education
+## 🛠 Technical Skills
 
-**Istanbul Aydın University** — Istanbul, Türkiye  
-**B.Sc. in Software Engineering (English)**  
-- GPA: **3.62 / 4.00**
-- Graduated with **High Honors**
-- **Ranked 3rd in Class**
-- Relevant Coursework:
-  - Data Structures & Algorithms
-  - Object-Oriented Programming
-  - Database Systems
-  - AI & Deep Learning
-  - Software Requirements Engineering
-  - Data Warehousing & Business Intelligence
+### 🏗️ Data Engineering & Infrastructure
+- **Orchestration:** Apache Airflow
+- **Data Modeling:** Kimball Star Schema, Snowflake Schema, Medallion Architecture (Bronze/Silver/Gold)
+- **Pipelines:** ETL/ELT, Incremental (Delta) Loading
+- **Tools:** Pentaho, SQLFluff, Pytest
+- **Cloud:** AWS (EC2, S3, ECS), Google Cloud Platform (BigQuery, Cloud Storage)
+- **Containers:** Docker, Docker Compose
 
-**John von Neumann University** — Hungary  
-**B.Sc. in Computer Science (ERASMUS)**  
-- GPA: **4.00 / 4.00**
+### 🗄️ Databases & Processing
+- **SQL/NoSQL:** SQL, PostgreSQL, MySQL, MongoDB
+- **Distributed Computing:** PySpark (Basics)
 
----
+### 🖥️ Programming & Software Development
+- **Languages:** Python, Java (Spring Boot), JavaScript
+- **APIs:** FastAPI, Flask, RESTful Services
+- **DevOps:** GitHub Actions, GitLab CI/CD (Automation & Deployment)
 
-## 🧠 Technical Skills
-
-### 🖥️ Programming & Development
-- **Python, Java, C**
-- Spring Boot, REST APIs, FastAPI, Flask
-- HTML, CSS, JavaScript (React, Node.js)
-- OOP, UML, Agile
-
-### 🤖 AI / ML / Data
-- Machine Learning, Deep Learning, Computer Vision, NLP
-- TensorFlow, Keras, Scikit-learn
-- CNNs, Feature Engineering
-- NumPy, Pandas, OpenCV
-- Matplotlib, Seaborn, Plotly, NLTK
-- Streamlit
-
-### 🧩 LLMs & Agentic AI
-- OpenAI API, Gemini, DeepSeek, Ollama
-- LangChain, LangGraph
-- Multi-Agent Systems
-- Prompt Engineering
-- RAG (Retrieval-Augmented Generation)
-- FAISS, ChromaDB
-
-### ☁️ DevOps & Cloud
-- **GitLab CI/CD** (pipelines, build & deploy automation)
-- Docker
-- AWS (EC2, S3, ECS – basic deployments)
-- Git, Linux fundamentals
-- Shell / Bash scripting
-
-### 🗄️ Databases
-- MySQL, MongoDB
-
----
-
-## 🏆 Programs, Bootcamps & Competitions
-
-- 🥉 **Teknofest International UAV Competition** — *3rd place (29 finalists)*  
-- **Teknofest – Hepsiburada Address Solution Hackathon** — *11th / 255 teams*
-- **MIUUL Data Scientist Bootcamp**
-- **Huawei Seeds for the Future**
-  - Selected **1 of 30** from 5,700 applicants
-  - Co-developed a **Metaverse Rehabilitation App**
-  - 🥈 **2nd place globally**
+### 🤖 AI & ML
+- TensorFlow, Scikit-learn, OpenCV, Data Analysis, Feature Engineering, EDA
+- Basic LLM concepts (LangChain, RAG, Multi-Agent Systems)
 
 ---
 
 ## 🚀 Featured Projects
 
-- **Deep Learning Assistant Multi-Agent System**  
-  *(Python, LangGraph, RAG, OpenAI, React)*  
-  Autonomous multi-agent system assisting developers in building deep learning models.
+### [E-Commerce Data Platform & Analytics](https://github.com/BetulBNY/ecommerce-data-lakehouse)
+🚀 Live Dashboard: https://betul-ecommerce-dashboard.streamlit.app/
+**Tech:** PostgreSQL, Docker, Apache Airflow, Python, Streamlit, GitHub Actions
+- Built a fully automated **end-to-end data platform** using Medallion Architecture (Bronze → Silver → Gold)
+- Developed a **data simulator** to generate daily synthetic transactions
+- Implemented **incremental ELT pipelines** to process only new data
+- Automated workflows using Airflow (no manual intervention)
+- Designed a **live dashboard** with continuously updating KPIs
+- Processes continuously generated synthetic data to simulate real-world data flow
 
-- **Intelligent Flower Ordering AI Agent**  
-  *(Python, LangChain, OpenAI API, Vector DB)*  
-  Conversational AI for a flower shop scenario.
+👉 Designed to simulate a real production-grade data platform with continuous data flow and zero manual intervention.
 
-- **Custom Deep Learning Framework**  
-  *(C++, React)*  
-  No-code platform for visually designing and training neural networks.
+## 🏆 Achievements & Education
 
-- **Skin Cancer Detection System**  
-  *(TensorFlow/Keras, FastAPI, React)*  
-  CNN-based classifier trained on HAM10000 dataset (84% accuracy).
-
-- **Space Mission Success Prediction**  
-  *(Python, ML, Streamlit)*  
-  Achieved **2nd place** in bootcamp competition.
+- 🎓 **B.Sc. in Software Engineering** (Istanbul Aydın University) — **GPA: 3.62/4.00** (Ranked 3rd in Department)
+- 🌍 **B.Sc. in Computer Science** (John von Neumann University) — **GPA: 4.00/4.00**
+- 📍 **Teknofest International UAV Competition** — 3rd out of 35 finalist teams (Address Solution)
+- 📍 **Teknofest Hackathon** — 11th out of 255 teams (Address Solution)
 
 ---
 
 ## 🌐 Connect With Me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/betulnuryildirim/)
+- 📊 [Kaggle](https://kaggle.com/BetulBNY)
 - 📫 Email: **betulbny@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/betulnuryildirim](https://www.linkedin.com/in/betulnuryildirim/)
-- 📊 Kaggle: [kaggle.com/BetulBNY](https://kaggle.com/BetulBNY)
-- 🌍 Portfolio: [betulbny.github.io/Portfolio-website](https://betulbny.github.io/Portfolio-website)
-- 🛠️ GitLab (CI/CD & DevOps work): https://gitlab.com/BetulBNY
+
 ---
 
 ## 📊 GitHub Stats
