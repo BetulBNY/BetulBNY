@@ -14,7 +14,7 @@ To build and scale **modern data platforms** that combine reliable data pipeline
 - **Pipelines:** ETL/ELT, Incremental (Delta) Loading
 - **Tools:** Pentaho, SQLFluff, Pytest
 - **Cloud:** AWS (EC2, S3, ECS), Google Cloud Platform (BigQuery, Cloud Storage)
-- **Containers:** Docker, Docker Compose
+- **Containers:** Docker
 
 ### 🗄️ Databases & Processing
 - **SQL/NoSQL:** SQL, PostgreSQL, MySQL, MongoDB
