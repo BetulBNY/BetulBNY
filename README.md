@@ -1,50 +1,24 @@
 # 💫 About Me
-Hi 👋 I'm **Betül Nur Yıldırım**, a **Data-focused Software Engineer** building scalable data pipelines and backend systems.
+Hi 👋 I'm **Betül Nur Yıldırım**, a **Data Scientist and Applied AI Engineer** focused on building intelligent, data-driven applications.
 
 🎯 **Career Goal:**  
-To build and scale **modern data platforms** that combine reliable data pipelines with real-time analytics and automation.
+To develop and deploy **machine learning and AI systems** that transform data into actionable insights and real-world products.
 
 ---
 
 ## 🛠 Technical Skills
 
-### 🏗️ Data Engineering & Infrastructure
-- **Orchestration:** Apache Airflow
-- **Data Modeling:** Kimball Star Schema, Snowflake Schema, Medallion Architecture (Bronze/Silver/Gold)
-- **Pipelines:** ETL/ELT, Incremental (Delta) Loading
-- **Tools:** Pentaho, SQLFluff, Pytest
-- **Cloud:** AWS (EC2, S3, ECS), Google Cloud Platform (BigQuery, Cloud Storage)
-- **Containers:** Docker
+- **AI & Machine Learning:** Machine Learning, Deep Learning, Computer Vision, NLP, Exploratory Data Analysis (EDA), Feature Engineering, TensorFlow, Scikit-learn, OpenCV
 
-### 🗄️ Databases & Processing
-- **SQL/NoSQL:** SQL, PostgreSQL, MySQL, MongoDB
-- **Distributed Computing:** PySpark (Basics)
+- **LLM & Generative AI:** LangChain, Prompt Engineering, RAG, Vector Databases (FAISS, ChromaDB)
 
-### 🖥️ Programming & Software Development
-- **Languages:** Python, Java (Spring Boot), JavaScript
-- **APIs:** FastAPI, Flask, RESTful Services
-- **DevOps:** GitHub Actions, GitLab CI/CD (Automation & Deployment)
+- **Programming & Frameworks:** Python, SQL, FastAPI, Flask, Java (Spring Boot), JavaScript, Node.js
 
-### 🤖 AI & ML
-- TensorFlow, Scikit-learn, OpenCV, Data Analysis, Feature Engineering, EDA
-- Basic LLM concepts (LangChain, RAG, Multi-Agent Systems)
+- **Cloud & DevOps:** Docker, AWS (EC2, S3), GitHub/GitLab CI/CD
+
+- **Databases & Data Processing:** PostgreSQL, MySQL, MongoDB, Data Modeling, Basic Data Transformation, PySpark (Basics)
 
 ---
-
-## 🚀 Featured Projects
-
-### [E-Commerce Data Platform & Analytics](https://github.com/BetulBNY/ecommerce-data-lakehouse)
-🚀 Live Dashboard: https://betul-ecommerce-dashboard.streamlit.app/
-**Tech:** PostgreSQL, Docker, Apache Airflow, Python, Streamlit, GitHub Actions
-- Built a fully automated **end-to-end data platform** using Medallion Architecture (Bronze → Silver → Gold)
-- Developed a **data simulator** to generate daily synthetic transactions
-- Implemented **incremental ELT pipelines** to process only new data
-- Automated workflows using Airflow (no manual intervention)
-- Designed a **live dashboard** with continuously updating KPIs
-- Processes continuously generated synthetic data to simulate real-world data flow
-
-👉 Designed to simulate a real production-grade data platform with continuous data flow and zero manual intervention.
-
 ## 🏆 Achievements & Education
 
 - 🎓 **B.Sc. in Software Engineering** (Istanbul Aydın University) — **GPA: 3.62/4.00** (Ranked 3rd in Department)
